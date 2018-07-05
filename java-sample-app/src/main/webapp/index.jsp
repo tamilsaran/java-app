@@ -8,6 +8,6 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from 
+		You are coming from tomcat server
 		<%= request.getRemoteAddr()  %></p>
 </body>
